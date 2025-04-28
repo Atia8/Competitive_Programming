@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "13_knapsack": "cpp"
+        "13_knapsack": "cpp",
+        "iostream": "cpp"
     }
 }
